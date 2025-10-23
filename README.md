@@ -1,6 +1,6 @@
 
 
-To-Do:
+## To-Do
 - add event listener to document that listens for key presses to start the game
     - make sure to only trigger a new game if we hear a key press and we are starting a brand new game or we are currently in the end game state (meaning a previous game has ended)
     - if clicking before game starts, (choose one): 
